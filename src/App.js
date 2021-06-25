@@ -18,45 +18,10 @@ export default function App() {
   );
 }
 function Home() {
-  const [bg, setBG] = useState("#000");
-
-  function egg() {
-    setBG("Black");
-  }
-  function egg1() {
-    setBG("rgba(0, 77, 194, 1)");
-  }
-  function egg2() {
-    setBG("rgba(10, 97, 17, 1)");
-  }
-  function egg3() {
-    setBG("#00ff87");
-  }
-  function egg4() {
-    setBG("#d61e1e");
-  }
-  function egg5() {
-    setBG("#d62976");
-  }
-  function egg6() {
-    setBG("Black");
-  }
-  function egg7() {
-    setBG("#f96854");
-  }
-  function egg8() {
-    setBG("#00ACEE");
-  }
-  function egg9() {
-    setBG("#7289DA");
-  }
-  function egg10() {
-    setBG("#c66a3a");
-  }
   return (
     <div className="body">
-      <div className="header" style={{ backgroundColor: bg }}>
-        <span onClick={egg}>
+      <div className="header">
+        <span>
           <img
             src="https://github.com/jordanreger/media/blob/main/stardomlogo.png?raw=true"
             alt="logo"
@@ -65,7 +30,7 @@ function Home() {
           ></img>
         </span>
       </div>
-      <div className="header" style={{ backgroundColor: bg }}>
+      <div className="header">
         <span>
           <img
             src="https://github.com/jordanreger/media/blob/main/stardomlogo.png?raw=true"
