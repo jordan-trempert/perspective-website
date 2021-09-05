@@ -1,4 +1,4 @@
-import React, {  } from "react";
+import React from "react";
 import {
   BrowserRouter as Router,
   Switch,
@@ -53,15 +53,10 @@ function Home() {
             />
             <br />
             <span id="dscontent">
-              GAME IS IN BETA! EXPECT BUGS! <br />
-              <br />
-              <br />
-              <a href="https://www.dropbox.com/s/18csvqn7jkyuqvq/Perspective.zip?dl=0">
-                Download Beta
+              Perspective Part 1<br />
+              <a href="https://stardomgames.itch.io/perspective-part-1">
+                Download Now!
               </a>
-              <br />
-              <br />
-              <br />
             </span>
           </div>
         </span>
