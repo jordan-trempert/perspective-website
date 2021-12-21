@@ -74,10 +74,7 @@ function Home() {
               Perspective Part 2 (Beta)<br />
               <a href="https://github.com/jordan-trempert/perspective-website/blob/main/Perspective%20Part%202%20(Beta%201).exe?raw=true">
                 Windows
-              </a> | 
-                <a href="https://github.com/jordan-trempert/perspective-website/blob/main/Perspective%20Part%202%20(Beta%201).apk?raw=true">
-                 Android
-              </a>
+              </a> | <a href="https://github.com/jordan-trempert/perspective-website/blob/main/Perspective%20Part%202%20(Beta%201).apk?raw=true"> Android</a>
             </span>
           </div>
         </span>
