@@ -76,7 +76,7 @@ function Home() {
                 Windows
               </a> | 
                 <a href="https://github.com/jordan-trempert/perspective-website/blob/main/Perspective%20Part%202%20(Beta%201).apk?raw=true">
-                Android
+                 Android
               </a>
             </span>
           </div>
