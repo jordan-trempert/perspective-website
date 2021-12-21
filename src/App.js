@@ -23,7 +23,7 @@ function Home() {
       <div className="header">
         <span>
           <img
-            src="https://github.com/jordanreger/media/blob/main/stardomlogo.png?raw=true"
+            src="https://raw.githubusercontent.com/jordan-trempert/media/main/stardom-logo%20(1).png"
             alt="logo"
             id="logo"
             draggable="false"
@@ -33,7 +33,7 @@ function Home() {
       <div className="header">
         <span>
           <img
-            src="https://github.com/jordanreger/media/blob/main/stardomlogo.png?raw=true"
+            src="https://raw.githubusercontent.com/jordan-trempert/media/main/stardom-logo%20(1).png"
             alt="logo"
             id="logo"
             draggable="false"
@@ -71,8 +71,13 @@ function Home() {
             />
             <br />
             <span id="dscontent">
-              Perspective Part 2<br />
-              Comming Soon!
+              Perspective Part 2 (Beta)<br />
+              <a href="https://github.com/jordan-trempert/perspective-website/blob/main/Perspective%20Part%202%20(Beta%201).exe?raw=true">
+                Windows
+              </a>
+<a href="https://github.com/jordan-trempert/perspective-website/blob/main/Perspective%20Part%202%20(Beta%201).apk?raw=true">
+                Android
+              </a>
             </span>
           </div>
         </span>
