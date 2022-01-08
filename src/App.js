@@ -65,13 +65,13 @@ function Home() {
         <span id="hover">
           <div className="ds10">
             <img
-              src="https://raw.githubusercontent.com/jordan-trempert/media/main/Perspective%202%20logo.png"
+              src="https://raw.githubusercontent.com/jordan-trempert/media/main/Project%20Paradox.png"
               alt="dslogo"
               id="dslogo"
             />
             <br />
             <span id="dscontent">
-              Perspective Part 2 (Beta)<br />
+              Project Paradox (Beta)<br />
               <a href="https://github.com/jordan-trempert/perspective-website/blob/main/Perspective%20Part%202%20(Beta%201).exe?raw=true">
                 Windows
               </a> | <a href="https://github.com/jordan-trempert/perspective-website/blob/main/Perspective%20Part%202%20(Beta%201).apk?raw=true"> Android</a>
