@@ -79,6 +79,10 @@ function Home() {
                 <a href="https://projectchangelog.stardomga.me">
                 Changelog
               </a>
+              <br />
+               <a href="https://github.com/StardomGames/ProjectParadoxBugTracker/issues">
+                Bug Tracker
+              </a>
             </span>
           </div>
         </span>
