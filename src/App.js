@@ -72,9 +72,10 @@ function Home() {
             <br />
             <span id="dscontent">
               Project Paradox (Beta)<br />
-              <a href="https://www.dropbox.com/s/juvgnas80g2wr7e/project%20paradox%20%28beta%203%29.exe?dl=0">
+              <a href="https://www.dropbox.com/s/8dbccpp8b2oxt8b/Project%20Paradox%20%28Beta%204%29.exe?dl=0">
                 Windows
-              </a> | <a href="https://www.dropbox.com/s/p36dp7i6j6lnsyz/project%20paradox%20%28beta%203%29.apk?dl=0"> Android</a>
+              </a> | 
+             <a href="https://www.dropbox.com/s/8dbccpp8b2oxt8b/Project%20Paradox%20%28Beta%204%29.apk?dl=0"> Android</a>
               <br />
                 <a href="https://projectchangelog.stardomga.me">
                 Changelog
